@@ -35,8 +35,8 @@ export default defineConfig({
       process.env.OUTPUT !== 'netlify' && VitePWA({
         registerType: 'autoUpdate',
         manifest: {
-          name: 'ChatGPT-API for Radish',
-          short_name: 'ChatGPT Radish',
+          name: 'ChatGPT-API for Dome',
+          short_name: 'ChatGPT Dome',
           description: 'A demo repo based on OpenAI API',
           theme_color: '#212129',
           background_color: '#ffffff',
